@@ -1,6 +1,5 @@
 ### Welcome J.E.M. International Studios Github Page
 
-[![Youtube_Follow](https://img.shields.io/youtube/channel/subscribers/UCo0cez7GscarTr2U-d--1bQ)](https://www.youtube.com/channel/UCo0cez7GscarTr2U-d--1bQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JEMEntertainmen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthedarkprogr&screen_name=JEMEntertainmen)
 
 
